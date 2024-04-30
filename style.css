@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+main, div{
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+    margin: 0px 0;
+}
+#forms{
+    margin-top: 5%;
+    display: inline-block;
+    width: 90px;
+}
+input {
+    height: 153%;
+    width: 200%;
+    margin-left: -50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
